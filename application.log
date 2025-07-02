@@ -1,0 +1,5 @@
+[20:16:08.864] [ERROR] Cannot connect service TMDB
+[20:16:09.239] [INFO] Records fetched from WEATHER: 14
+[20:16:09.276] [ERROR] Error fetching from WEATHER: Stream closed
+[20:16:10.058] [INFO] Records fetched from NYT: 31
+[20:16:10.058] [ERROR] Error fetching from NYT: Stream closed
